@@ -1,0 +1,13 @@
+# Variáveis de ambiente (chaves, senhas, API)
+.env
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Configurações do editor
+.vscode/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db

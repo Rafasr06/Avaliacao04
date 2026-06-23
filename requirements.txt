@@ -1,0 +1,14 @@
+- langchain
+Framework principal para criação dos agentes.
+- langchain-core
+Componentes base como @tool, mensagens e estruturas internas.
+- langchain-openai
+Integração do LangChain com a API da OpenAI (ChatOpenAI).
+- langgraph
+Responsável pelo workflow multi-agente, nós e roteamento.
+- openai
+Biblioteca oficial da API OpenAI.
+- python-dotenv
+Carrega variáveis do arquivo .env (OPENAI_API_KEY, dados do banco).
+- psycopg
+Conexão Python com PostgreSQL.
